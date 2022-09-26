@@ -1,16 +1,17 @@
-### Hi there 👋
+### .init
+Hi, I'm Vugar Safarzada. I've been writing code for the web since I was 16 years old.<br>
 
-<!--
-**vugarsafarzada/vugarsafarzada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### .code
+I use GitHub mostly to store and synchronize my work.<br>
+But I have a few non-popular hobby open source projects:
+ - [Personal Web-site](https://github.com/vugarsafarzada/vugarsafarzada.repo): My own personal website! 
+ - [Twitter Clone](https://github.com/vugarsafarzada/twitter-clone): I build a Twitter clone with Vue.js, Vuex, Node.js, Express.js.
+ - [Drone Model](https://github.com/vugarsafarzada/Drone-Project): Drone model with only HTML/CSS/JS
+ - [CapsLock](https://github.com/vugarsafarzada/CapsLock): Online PC store application with HTML, CSS, Node.js, Express.js, MongoDB, Mongoose
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### .text
+My Twitter is [@VugarSafarzada](https://twitter.com/VugarSafarzada).
+
+### .contact
+You can reach me at [vuqarsfrzad@gmail.com](mailto:vuqarsfrzad@gmail.com).
