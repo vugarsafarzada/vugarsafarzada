@@ -13,9 +13,5 @@ But I have a few non-popular hobby open source projects:
  - [DictBook](https://github.com/vugarsafarzada/DictBook): DictBook is a console application with Python for save words of foreign language which you want to learn!
 
 
-
-### .text
-My Twitter is [@VugarSafarzada](https://twitter.com/VugarSafarzada).
-
 ### .contact
 You can reach me at [vuqarsfrzad@gmail.com](mailto:vuqarsfrzad@gmail.com).
