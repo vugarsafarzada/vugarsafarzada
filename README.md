@@ -1,17 +1,22 @@
-### .init
-Hi, I'm Vugar Safarzada. I've been writing code for the web since I was 16 years old.<br>
+Here's an improved version of your content:
 
-### .code
-I use GitHub mostly to store and synchronize my work.<br>
-But I have a few non-popular hobby open source projects:
- - [Personal Web-site](https://github.com/vugarsafarzada/vugarsafarzada.repo): My own personal website! 
- - [Twitter Clone](https://github.com/vugarsafarzada/twitter-clone): I build a Twitter clone with Vue.js, Vuex, Node.js, Express.js.
- - [Task Management](https://github.com/vugarsafarzada/task-management): I created useful task management(TODO app with tags and tags filtering) tool
- - [AL-VER](https://github.com/vugarsafarzada/Al-Ver): Online shopping website with React, Node.js & Express.js
- - [Drone Model](https://github.com/vugarsafarzada/Drone-Project): Drone model with only HTML/CSS/JS
- - [CapsLock](https://github.com/vugarsafarzada/CapsLock): Online PC store application with HTML, CSS, Node.js, Express.js, MongoDB, Mongoose
- - [DictBook](https://github.com/vugarsafarzada/DictBook): DictBook is a console application with Python for save words of foreign language which you want to learn!
+---
 
+### Introduction 🚀
+Hello! I'm Vugar Safarzada. My journey into web development began at the age of 16, and I've been passionately crafting digital solutions ever since.
 
-### .contact
-You can reach me at [vuqarsfrzad@gmail.com](mailto:vuqarsfrzad@gmail.com).
+### Projects 💻
+While I predominantly utilize GitHub for versioning and syncing my projects, I've also embarked on several personal open-source ventures. Here are a few that I'm particularly proud of:
+
+- **[Pexty](https://github.com/vugarsafarzada/php_framework)**: A bespoke PHP framework I created from scratch.
+- **[Personal Portfolio](https://github.com/vugarsafarzada/vugarsafarzada.repo)**: A digital space showcasing my work and experiences.
+- **[Twitter Clone](https://github.com/vugarsafarzada/twitter-clone)**: A replication of Twitter, built harnessing the power of Vue.js, Vuex, Node.js, and Express.js.
+- **[Task Management](https://github.com/vugarsafarzada/task-management)**: A comprehensive TODO app featuring tags and filter capabilities.
+- **[AL-VER](https://github.com/vugarsafarzada/Al-Ver)**: An e-commerce platform developed using React, Node.js, and Express.js.
+- **[Drone Model](https://github.com/vugarsafarzada/Drone-Project)**: A visual drone model designed purely with HTML, CSS, and JS.
+- **[CapsLock](https://github.com/vugarsafarzada/CapsLock)**: A PC store application fortified with HTML, CSS, Node.js, Express.js, MongoDB, and Mongoose.
+
+### Let's Connect! 💌
+I'm always open to collaborations, questions, or just a chat. Feel free to drop me an email at [vuqarsfrzad@gmail.com](mailto:vuqarsfrzad@gmail.com).
+
+---
