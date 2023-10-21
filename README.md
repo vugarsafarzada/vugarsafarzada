@@ -1,5 +1,3 @@
-Here's an improved version of your content:
-
 ---
 
 ### Introduction 🚀
