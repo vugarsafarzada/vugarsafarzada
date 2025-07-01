@@ -40,6 +40,59 @@
   </p>
 
 
+<br/>
+
+## Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+</div>
+
+<br/>
+
+## Personal Projects
+
+### 🌐 [Clapsit](https://clapsit.com) - www.clapsit.com
+> Clapsit is my first AI project. Clapsit was born out of my own needs. As a regular front-end developer, we often need API, namely JSON data. And that's why we need back-end but we don't always have access to it. But Clapsit solves this problem in just 1 minute with "AI JSON Generator". You just write what kind of data you need and you can also define a json schema with TypeScript. Boom! Clapsit turns your idea into an API and when you call this API, it returns you a json with dummy filled data. It's currently free to use and easy to register. Enjoy it!!!\
+![image](https://github.com/user-attachments/assets/26f79456-36e9-43f6-92bc-f25c095bf526)
+![image](https://github.com/user-attachments/assets/ace6df84-01a5-4c2f-8d45-c566500225cf)
+
+Frontend app repo (Nuxt3, Pinia, SCSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-web-app)\
+Backend app repo (Express.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-main-server)
+
+---
+
+### 🌐 [DIL365](https://dil365.com) - www.dil365.com
+> DIL365 is an idea born out of my passion for learning a new language. It is an AI-powered dictionary website. It provides you with the vocabulary you need to learn a new language, at the level you need, with simple explanations and examples. I am working on this project and it is not finished yet, but I can assure you that it is worth the wait.
+![image](https://github.com/user-attachments/assets/e37cd4e9-2c67-416f-ac75-e461aea7643d)
+
+
+Frontend app repo (React, Redux, CSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-web-app)\
+Backend app repo (Nest.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-main-server)
+
+---
 
 <br/>
 
@@ -47,40 +100,9 @@
 
 >📍 **Azerbaijan State University of Economics • UNEC** - Baku, Azerbaijan \
 📖 **Bachelor's degree, Food Science and Engineering**\
-📆 2018 - 2022 
+📆 2018 - 2022
 
-<br/>
-
-## Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff" />
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
-<img src="https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82" />
-<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff" />
-<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
-<img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
-<img src="https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff" />
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-</div>
-
-<br/>
-<br/>
+<br/> 
 
 ## Packages
 
