@@ -75,7 +75,9 @@
 ## Personal Projects
 
 ### 🌐 [Clapsit](https://clapsit.com) - www.clapsit.com
-> Clapsit is my first AI project. Clapsit was born out of my own needs. As a regular front-end developer, we often need API, namely JSON data. And that's why we need back-end but we don't always have access to it. But Clapsit solves this problem in just 1 minute with "AI JSON Generator". You just write what kind of data you need and you can also define a json schema with TypeScript. Boom! Clapsit turns your idea into an API and when you call this API, it returns you a json with dummy filled data. It's currently free to use and easy to register. Enjoy it!!!\
+> Clapsit is my first AI project. Clapsit was born out of my own needs. As a regular front-end developer, we often need API, namely JSON data. And that's why we need back-end but we don't always have access to it. But Clapsit solves this problem in just 1 minute with "AI JSON Generator". You just write what kind of data you need and you can also define a json schema with TypeScript. Boom! Clapsit turns your idea into an API and when you call this API, it returns you a json with dummy filled data. It's currently free to use and easy to register. Enjoy it!!!
+<br/>
+
 ![image](https://github.com/user-attachments/assets/26f79456-36e9-43f6-92bc-f25c095bf526)
 ![image](https://github.com/user-attachments/assets/ace6df84-01a5-4c2f-8d45-c566500225cf)
 
@@ -86,15 +88,15 @@ Backend app repo (Express.js, MySQL, Prisma): [![GitHub](https://img.shields.io/
 
 ### 🌐 [DIL365](https://dil365.com) - www.dil365.com
 > DIL365 is an idea born out of my passion for learning a new language. It is an AI-powered dictionary website. It provides you with the vocabulary you need to learn a new language, at the level you need, with simple explanations and examples. I am working on this project and it is not finished yet, but I can assure you that it is worth the wait.
-![image](https://github.com/user-attachments/assets/e37cd4e9-2c67-416f-ac75-e461aea7643d)
-
-
-Frontend app repo (React, Redux, CSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-web-app)\
-Backend app repo (Nest.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-main-server)
-
----
-
 <br/>
+
+![image](https://github.com/user-attachments/assets/e98852de-ecef-4526-aa61-075b27b1ce1b)
+
+
+Frontend app repo (React, Redux, CSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dil365/dil365-web-app)\
+Backend app repo (Nest.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dil365/dil365-main-server)
+
+<br>
 
 ## Education
 
