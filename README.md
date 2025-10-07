@@ -82,16 +82,6 @@
 Frontend app repo (Nuxt3, Pinia, SCSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-web-app)\
 Backend app repo (Express.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-main-server)
 
----
-
-#### 🌐 [DIL365](https://dil365.com) - www.dil365.com
-> DIL365 is an idea born out of my passion for learning a new language. It is an AI-powered dictionary website. It provides you with the vocabulary you need to learn a new language, at the level you need, with simple explanations and examples. I am working on this project and it is not finished yet, but I can assure you that it is worth the wait.
-> 
-Frontend app repo (React, Redux, CSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dil365/dil365-web-app)\
-Backend app repo (Nest.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dil365/dil365-main-server)
-
-<br>
-
 ## Packages
 
 
