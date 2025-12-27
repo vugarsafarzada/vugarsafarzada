@@ -88,6 +88,7 @@ Backend app repo (Express.js, MySQL, Prisma): [![GitHub](https://img.shields.io/
 | Name                 | A short summary                              | Downloads |
 | -------------------- | -------------------------------------------- | --------- |
 | [domate](https://github.com/vugarsafarzada/domate) | JavaScript library that enables full control over the DOM with minimal HTML and CSS.  | [![Nuget](https://img.shields.io/npm/dt/domate)](https://www.nuget.org/packages/domate) |
+| [jutter](https://github.com/vugarsafarzada/jutter) |  Jutter allows you to build a web application's UI using a declarative, function-based syntax.  | [![Nuget](https://img.shields.io/npm/dt/jutter)](https://www.nuget.org/packages/jutter) |
 
   
 
