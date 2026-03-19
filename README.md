@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A software engineer.
+I'm <strong>Software Engineer</strong> with expertise in developing web platforms and **micro-frontend/micro-service** solutions. As a self-taught professional with experience since 2021, I am passionate about creating resilient **full-stack & mobile applications** that are easy to maintain and function well in production environments. My expertise includes architecture, UI development, performance, and developer experience through standards and patterns. I am very comfortable working on features from end to end, leading team members, and improving the technical aspects of projects.
 </p>
 
 <p align="center">
