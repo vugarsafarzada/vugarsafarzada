@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  A software developer who learns every day.
+  A software engineer.
 </p>
 
 <p align="center">
@@ -34,12 +34,6 @@
 <p align="center">
   📫 How to reach me: <a href="mailto:vugarsafarzada@icloud.com">vugarsafarzada@icloud.com</a>
 </p>
-
-
-<p align='center'>
-  <a href='https://www.chess.com/member/VugaSafarzada'>♟Playing Chess
-<img align='center' src='https://img.shields.io/badge/dynamic/json?logo=chessdotcom&label=rating&query=%24.chess_rapid.last.rating&url=https%3A%2F%2Fapi.chess.com%2Fpub%2Fplayer%2FVugaSafarzada%2Fstats'/></a>
-  </p>
 
 
 <br/>
@@ -73,14 +67,6 @@
 </div>
 
 <br/>
-
-## Personal Projects
-
-#### 🌐 [Clapsit](https://clapsit.com) - www.clapsit.com
-> Clapsit is my first AI project. Clapsit was born out of my own needs. As a regular front-end developer, we often need API, namely JSON data. And that's why we need back-end but we don't always have access to it. But Clapsit solves this problem in just 1 minute with "AI JSON Generator". You just write what kind of data you need and you can also define a json schema with TypeScript. Boom! Clapsit turns your idea into an API and when you call this API, it returns you a json with dummy filled data. It's currently free to use and easy to register. Enjoy it!!!
-> 
-Frontend app repo (Nuxt3, Pinia, SCSS): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-web-app)\
-Backend app repo (Express.js, MySQL, Prisma): [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/org-project-27/clapsit-main-server)
 
 ## Packages
 
